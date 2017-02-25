@@ -29,16 +29,13 @@ body{
 	background-color: #23232e;
 	text-align: center;
 }
-
 .header {
 	padding: 80px 0 50px;
 }
 .banner-content {
 	padding: 93px 0 43px;
 	color: #fff;
-
 }
-
 .site-title {
 	font-family: sans-serif;
 	font-weight: 700;
@@ -83,7 +80,6 @@ body{
 	background-image: url(../imges/bg.jpeg);
 	background-repeat:no-repeat;
 	background-size: cover;
-	
 }
 .text{ 
 	margin:0px 0 80px;
@@ -108,19 +104,16 @@ body{
 	padding-right: 5px;
 	padding-left: 5px;
 	line-height: 1;
-	
 }
 .post-title {
 	font-weight: 700;
     font-size: 20px;
-	
 }
 .post-content {
 	font-size: 18px;
 	line-height: 30px;
 	text-align: left;
 }
-
 .section-title {
 	font-family: sans-serif;
 	font-weight: 700;
