@@ -31,7 +31,7 @@ body{
 }
 
 .header {
-	padding: 80px 0 92px;
+	padding: 80px 0 50px;
 }
 .banner-content {
 	padding: 93px 0 50px;
@@ -44,18 +44,19 @@ body{
 	font-weight: 700;
 	font-size: 80px;
 	text-transform: uppercase;
-	line-height: 1;
+/*	line-height: 1;*/
 	margin: 0 0 30px;
 }
 
 .site-description {
 	font-size: 18px;
 	width: 458px;
-	margin: 30px auto 90px;
+	margin: 20px auto 90px;
 /*	letter-spacing: 0.02em*/
 }
 
 .scroll {
+	margin-top: 95px;
 	display: inline-block;
 	width: 45px;
 	height: 45px;
@@ -92,7 +93,7 @@ body{
 	max-width: 860px;
 	text-align: center;
 	margin: 0 auto;
-	padding: 30px 0 30px
+	padding-top: 40px;
 }
 .what-i-do {
 	font-size: 0px;
@@ -116,4 +117,13 @@ body{
 	font-size: 18px;
 	line-height: 30px;
 	text-align: left;
+}
+
+.section-title {
+	font-family: sans-serif;
+	font-weight: 700;
+	font-size: 80px;
+	text-transform: uppercase;
+	text-align: center;
+	margin: 120px 0 100px;
 }
